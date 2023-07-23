@@ -1,6 +1,6 @@
 # Hello👋
 
-My name is Nick Flint and I use he/him pronouns.  I am currently a test automation software engineer out of Columbus, OH, USA.  
+My name is Nick Flint and I use he/him pronouns.  I am currently a senior software engineer out of Columbus, OH, USA.  
 ## Professional Experience
 Some of my past professional experience includes:
  - Working as a junior web developer for Robin Technologies - `ASP.net (VB)`
@@ -9,6 +9,7 @@ Some of my past professional experience includes:
  - Working on the software of the ship control trainers for General Dynamics - Electric Boat - `Ada/C`
  - Working as a systems engineer for Honda R&D Americas
  - Working as a test automation engineer for Vertiv - `Python/Robot Framework`
+ - Working as a senior software engineer for JPMorgan Chase - `Java/Spring Boot` & `nodeJs/Angular`
 
 ## Personal Projects
 In my free time I have worked an various projects:
